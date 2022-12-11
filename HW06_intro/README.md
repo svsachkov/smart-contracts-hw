@@ -1,0 +1,2 @@
+Ссылка на транзакцию: https://goerli.etherscan.io/tx/0xff63c08db6482bbfbde28a13dcd4de95c79c41be617b28e638a553ded19b6a45
+Ссылка на смарт-контракт: https://goerli.etherscan.io/tx/0x7246abc183408a9048932e9bbadc039d88965e7b697d9fe687cc86ca595aebe5
